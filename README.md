@@ -1,4 +1,4 @@
-### <div align="center">I'm Eugene, a data engineer from the Philippines 👋🏻 </div>
+### <div align="center">I'm Eugene, a data engineer👋🏻 </div>
 
 #### 🛠️ Tools
 - Language: Python, SQL
